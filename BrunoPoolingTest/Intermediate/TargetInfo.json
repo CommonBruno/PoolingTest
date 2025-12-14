@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BrunoPoolingTest",
+			"Path": "..\\Source\\BrunoPoolingTest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BrunoPoolingTestEditor",
+			"Path": "..\\Source\\BrunoPoolingTestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

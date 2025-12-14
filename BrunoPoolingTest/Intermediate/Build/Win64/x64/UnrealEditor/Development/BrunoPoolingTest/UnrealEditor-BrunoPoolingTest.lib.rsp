@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BrunoPoolingTest.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\User\Documents\Fork\PoolingTest\BrunoPoolingTest\Intermediate\Build\Win64\x64\BrunoPoolingTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\User\Documents\Fork\PoolingTest\BrunoPoolingTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\BrunoPoolingTest\BrunoPoolingTest.cpp.obj"
+"C:\Users\User\Documents\Fork\PoolingTest\BrunoPoolingTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\BrunoPoolingTest\PerModuleInline.gen.cpp.obj"
+"C:\Users\User\Documents\Fork\PoolingTest\BrunoPoolingTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\BrunoPoolingTest\Default.rc2.res"
+/OUT:"C:\Users\User\Documents\Fork\PoolingTest\BrunoPoolingTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\BrunoPoolingTest\UnrealEditor-BrunoPoolingTest.lib"
