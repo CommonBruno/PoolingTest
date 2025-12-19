@@ -3,9 +3,24 @@
 	"changelists": [
 		{
 			"guid": "00000000000000000000000000000000",
-			"description": "Changelist non controllate predefinite",
+			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/User/Documents/Fork/PoolingTest/BrunoPoolingTest/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/User/Documents/Fork/PoolingTest/BrunoPoolingTest/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/User/Documents/Fork/PoolingTest/BrunoPoolingTest/Content/BrunoPoolingTest/Materials/BounceMaterial.uasset",
+				"C:/Users/User/Documents/Fork/PoolingTest/BrunoPoolingTest/Content/BrunoPoolingTest/Actors/BP_Ball.uasset",
+				"C:/Users/User/Documents/Fork/PoolingTest/BrunoPoolingTest/Content/BrunoPoolingTest/Input/IA_Spawn.uasset",
+				"C:/Users/User/Documents/Fork/PoolingTest/BrunoPoolingTest/Content/BrunoPoolingTest/Input/InputMap.uasset",
+				"C:/Users/User/Documents/Fork/PoolingTest/BrunoPoolingTest/Content/BrunoPoolingTest/Actors/BP_Gamemode.uasset",
+				"C:/Users/User/Documents/Fork/PoolingTest/BrunoPoolingTest/Content/BrunoPoolingTest/Actors/BP_PlayerSphere.uasset",
+				"C:/Users/User/Documents/Fork/PoolingTest/BrunoPoolingTest/Content/BrunoPoolingTest/Input/Actions/IA_Spawn.uasset",
+				"C:/Users/User/Documents/Fork/PoolingTest/BrunoPoolingTest/Content/BrunoPoolingTest/Input/Actions/IA_SpawnTest.uasset",
+				"C:/Users/User/Documents/Fork/PoolingTest/BrunoPoolingTest/Content/BrunoPoolingTest/Input/Actions/IA_CameraForward.uasset",
+				"C:/Users/User/Documents/Fork/PoolingTest/BrunoPoolingTest/Content/BrunoPoolingTest/Input/Actions/IA_CameraSideways.uasset",
+				"C:/Users/User/Documents/Fork/PoolingTest/BrunoPoolingTest/Content/BrunoPoolingTest/Input/Actions/IA_CameraRight.uasset",
+				"C:/Users/User/Documents/Fork/PoolingTest/BrunoPoolingTest/Content/BrunoPoolingTest/Input/Actions/IA_Movement.uasset",
+				"C:/Users/User/Documents/Fork/PoolingTest/BrunoPoolingTest/Content/BrunoPoolingTest/Input/Actions/IA_MovementForward.uasset",
+				"C:/Users/User/Documents/Fork/PoolingTest/BrunoPoolingTest/Content/BrunoPoolingTest/Input/Actions/IA_MovementRight.uasset",
+				"C:/Users/User/Documents/Fork/PoolingTest/BrunoPoolingTest/Content/BrunoPoolingTest/BP_Ball.uasset"
 			]
 		}
 	]

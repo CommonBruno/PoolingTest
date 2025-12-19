@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\fork\\poolingtest\\brunopoolingtest\\source\\brunopoolingtest\\boulder.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\fork\\poolingtest\\brunopoolingtest\\intermediate\\build\\win64\\x64\\brunopoolingtesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\fork\\poolingtest\\brunopoolingtest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\brunopoolingtest\\definitions.brunopoolingtest.h",
+            "c:\\users\\user\\documents\\fork\\poolingtest\\brunopoolingtest\\source\\brunopoolingtest\\boulder.h",
+            "c:\\users\\user\\documents\\fork\\poolingtest\\brunopoolingtest\\intermediate\\build\\win64\\unrealeditor\\inc\\brunopoolingtest\\uht\\boulder.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -7,6 +7,9 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\User\Documents\Fork\PoolingTest\BrunoPoolingTest\Intermediate\Build\Win64\x64\BrunoPoolingTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\User\Documents\Fork\PoolingTest\BrunoPoolingTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\BrunoPoolingTest\Boulder.gen.cpp.obj"
+"C:\Users\User\Documents\Fork\PoolingTest\BrunoPoolingTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\BrunoPoolingTest\BrunoPoolingTest.init.gen.cpp.obj"
+"C:\Users\User\Documents\Fork\PoolingTest\BrunoPoolingTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\BrunoPoolingTest\Boulder.cpp.obj"
 "C:\Users\User\Documents\Fork\PoolingTest\BrunoPoolingTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\BrunoPoolingTest\BrunoPoolingTest.cpp.obj"
 "C:\Users\User\Documents\Fork\PoolingTest\BrunoPoolingTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\BrunoPoolingTest\PerModuleInline.gen.cpp.obj"
 "C:\Users\User\Documents\Fork\PoolingTest\BrunoPoolingTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\BrunoPoolingTest\Default.rc2.res"

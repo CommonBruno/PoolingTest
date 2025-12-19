@@ -11,6 +11,7 @@
     <None Include="..\..\Source\BrunoPoolingTestEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -29,6 +30,12 @@
     <Filter Include="Source\BrunoPoolingTest">
       <UniqueIdentifier>{D2A39747-4372-3A8F-AC1B-4F7F0973387C}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\BrunoPoolingTest\Boulder.cpp">
+      <Filter>Source\BrunoPoolingTest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BrunoPoolingTest\Boulder.h">
+      <Filter>Source\BrunoPoolingTest</Filter>
+    </ClCompile>
     <None Include="..\..\Source\BrunoPoolingTest\BrunoPoolingTest.Build.cs">
       <Filter>Source\BrunoPoolingTest</Filter>
     </None>
